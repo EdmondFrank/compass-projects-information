@@ -1,0 +1,10 @@
+ident: relational-database
+name: Relational DB
+name_cn: 关系性数据库
+slug: /relational-database
+items:
+  - https://gitee.com/opengauss/openGauss-server
+  - https://github.com/oceanbase/oceanbase
+  - https://github.com/pingcap/tidb
+  - https://github.com/postgres/postgres
+  - https://github.com/oceanbase/oceanbase
