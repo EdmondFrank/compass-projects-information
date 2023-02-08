@@ -10,6 +10,3 @@ items:
   - https://github.com/apache/dubbo
   - https://github.com/TarsCloud/Tars
   - https://github.com/chaoss/grimoirelab
-  - brpc
-  - presto
-  - PrestaShop
