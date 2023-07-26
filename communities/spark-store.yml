@@ -1,0 +1,8 @@
+---
+community_name: spark-store
+resource_types:
+  software-artifact-repositories:
+    repo_urls:
+    - https://gitee.com/deepin-community-store/spark-store
+  governance-repositories:
+    repo_urls: []
